@@ -1,4 +1,4 @@
-class RenamequestionToQuestion < ActiveRecord::Migration
+class RenameMicropostsToQuestion < ActiveRecord::Migration
   def change
   end
 end
